@@ -1,0 +1,8 @@
+{
+  "task": "Summarize a support conversation",
+  "min_quality": 0.75,
+  "max_latency_ms": 900,
+  "max_cost_per_million_tokens": 2.0,
+  "context_tokens": 12000,
+  "required_capabilities": ["text"]
+}
