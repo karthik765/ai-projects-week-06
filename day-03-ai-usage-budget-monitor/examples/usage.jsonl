@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-21T09:15:00Z","model":"atlas-small","input_tokens":10000,"output_tokens":2000}
+{"timestamp":"2026-10-21T13:30:00Z","model":"atlas-large","input_tokens":5000,"output_tokens":1000}
+{"timestamp":"2026-10-22T08:00:00Z","model":"atlas-small","input_tokens":20000,"output_tokens":4000}
