@@ -1,0 +1,9 @@
+{"id":"1","text":"The card was declined","label":"billing"}
+{"id":"2","text":"Please reset my password","label":"account"}
+{"id":"3","text":"I was charged twice","label":"billing"}
+{"id":"4","text":"How do I change my email?","label":"account"}
+{"id":"5","text":"The card was declined ","label":"billing"}
+{"id":"6","text":"The export is missing rows","label":"technical"}
+{"id":"7","text":"The dashboard is slow","label":"technical"}
+{"id":"8","text":"I need a refund","label":"billing"}
+{"id":"9","text":"I cannot sign in","label":"account"}
