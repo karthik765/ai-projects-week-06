@@ -1,0 +1,4 @@
+{"id":"refund-01","passed":false,"latency_ms":620,"cost_usd":0.003}
+{"id":"refund-02","passed":true,"latency_ms":650,"cost_usd":0.003}
+{"id":"refund-03","passed":false,"latency_ms":700,"cost_usd":0.004}
+{"id":"refund-04","passed":true,"latency_ms":580,"cost_usd":0.003}
