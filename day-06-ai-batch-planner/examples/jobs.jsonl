@@ -1,0 +1,5 @@
+{"id":"refund-001","model":"swift","input_tokens":420,"output_tokens":180,"priority":2}
+{"id":"policy-002","model":"reasoning","input_tokens":700,"output_tokens":350,"priority":1,"deadline_minutes":30}
+{"id":"summary-003","model":"swift","input_tokens":300,"output_tokens":120}
+{"id":"unknown-004","model":"custom","input_tokens":500,"output_tokens":200,"priority":3}
+

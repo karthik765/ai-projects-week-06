@@ -11,5 +11,6 @@ Seven small, practical AI engineering projects built one day at a time.
 | 03 | [AI Usage Budget Monitor](day-03-ai-usage-budget-monitor/) | Estimates model spend from JSONL usage events and flags total or daily budget overruns. |
 | 04 | [AI Dataset Splitter](day-04-ai-dataset-splitter/) | Creates deterministic stratified train/validation/test splits while detecting duplicates and near-leakage by normalized text. |
 | 05 | [AI Eval Drift Detector](day-05-ai-eval-drift-detector/) | Compares baseline and candidate evaluation runs to flag quality, latency, cost, and failure-rate regressions. |
+| 06 | [AI Batch Planner](day-06-ai-batch-planner/) | Builds explainable, rate-limit-aware waves for AI jobs and estimates token cost before dispatch. |
 
 Each project is self-contained and includes source code, tests, examples, and setup instructions.
